@@ -1,7 +1,7 @@
 # bp-estimation-mimic3
 Crucial pieces of code for the BP estimation using MIMIC III database. Paper submitted to Sensors journal.
 
-**IMPORTANT**: this code is not production-ready, but experimental. Bugs might be present and robustness was not a top priority. It was written using bash, python 3 and MATLAB 2018a.
+**IMPORTANT**: this code is not production-ready, but experimental and currently in active development. Bugs might be present and robustness was not a top priority. It was written using bash, python 3 and MATLAB 2018a.
 
 ### DataMiner.sh
 This script is used to continuously download the data of the MIMIC III database, available at https://physionet.org/physiobank/database/mimic3wdb/.
