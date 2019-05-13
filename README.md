@@ -9,3 +9,6 @@ This script is used to delete empty and very small files.
 
 ### organize_patients.py
 This script puts all recording sessions of a given patient into a PATIENT_ID/ directory, for all downloaded files.
+
+### [optional] delete_short_extra.py
+This script removes all files with duration under a set threshold.
