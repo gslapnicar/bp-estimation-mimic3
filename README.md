@@ -14,3 +14,9 @@ This script puts all recording sessions of a given patient into a PATIENT_ID/ di
 
 ### [optional] delete_short_extra.py
 This script removes all files with duration under a set threshold.
+
+### cleaning_scripts
+MATLAB scripts used for cleaning the data and removing anomalies. Entrypoint is main.m. Modify accordingly (paths, thresholds, etc.).
+
+### models.py
+Keras (tensorflow backend) definitions of deep-learning models used in experiments.
